@@ -28,7 +28,7 @@ To demonstrate the power of SVD in image compression through a visual, hands-on 
 ## 👤 Author
 **Ganga Ram Pandey**  
 Science graduate | MBA | Data Science & AI @ IIT Roorkee  
-🔗 [LinkedIn](https://www.linkedin.com/in/gangaram-pandey) | 🧠 [CrunchDAO](https://crunchdao.com) | 🧪 [Kaggle](https://kaggle.com)
+https://www.linkedin.com/in/ganga-ram-pandey-9b3880124
 
 ---
 
